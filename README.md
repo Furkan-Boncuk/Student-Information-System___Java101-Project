@@ -1,4 +1,4 @@
-# Student-Management-System.java
+# Student-Information-System
 Öğrenci Not Sistemi
 
 Course Sınıfı Özellikleri :
