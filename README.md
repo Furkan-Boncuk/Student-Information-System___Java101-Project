@@ -1,5 +1,6 @@
 # Student-Management-System.java
 Öğrenci Not Sistemi
+
 Course Sınıfı Özellikleri :
 Nitelikler : name,code,prefix,note,Teacher
 Metotlar : Course() , addTeacher() , printTeacher()
